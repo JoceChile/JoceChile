@@ -1,6 +1,6 @@
 # 👋🏻
 
-![banner](images/banner.png)
+![banner]("C:\Users\jocel\Desktop\Laboratoria\JOB APPLICATION\banner.png")
 
 ¡Hola Coders! 😎 Soy estudiante de Laboratoria de Desarrollo Front-End en Santiago de Chile.
 Estos últimos cinco meses han sido un emocionante viaje de aprendizaje, descubriendo nuevas
