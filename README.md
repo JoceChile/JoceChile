@@ -1,6 +1,4 @@
-# 👋🏻
-
-¡Hola Coders! 😎 Soy estudiante de Laboratoria de Desarrollo Front-End en Santiago de Chile.
+👋🏻¡Hola Coders! 😎 Soy estudiante de Laboratoria de Desarrollo Front-End en Santiago de Chile.
 Estos últimos cinco meses han sido un emocionante viaje de aprendizaje, descubriendo nuevas
 habilidades y conocimientos en este apasionante campo.
 Siempre busco crecer y mejorar, y he desarrollado habilidades esenciales para la vida.
@@ -14,7 +12,7 @@ increíbles.
 
 ## 🌎 &nbsp;&nbsp;Encuentrame en la web:
 
-- Escribeme a [Gmail](mailto:jocelyn.v.a@gmail.com)
+- Escríbeme a [Gmail](mailto:jocelyn.v.a@gmail.com)
 - Conoce mi perfil profesional en [LinkedIn](https://www.linkedin.com/in/jocelyn-v%C3%A1squez/)
 
 ## 🎯 &nbsp;&nbsp;Tecnologías que he desarrollado:
