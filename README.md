@@ -1,6 +1,6 @@
-👋🏻¡Hola Coders! 😎 Soy egresada de Laboratoria de Desarrollo Front-End.
-Estos últimos seis meses han sido un emocionante viaje de aprendizaje, descubriendo nuevas
-habilidades y conocimientos en este apasionante campo.
+👋🏻¡Hola Coders! 😎 Soy Desarrolladora Front-End.
+El pasado 2024 estuvo lleno de nuevos aprendizajes y desafios,
+adquiri habilidades y conocimientos en este apasionante campo de la tecnologia.
 Siempre busco crecer y mejorar, y he desarrollado habilidades esenciales para la vida.
 Sumergida en el mundo de Scrum, aprovecho su metodología ágil para dar lo mejor de mí en cada
 proyecto. Amo el trabajo colaborativo y creo en el poder de trabajar junt@s para lograr cosas
