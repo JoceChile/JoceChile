@@ -1,5 +1,5 @@
 👋🏻¡Hola Coders! 😎 Soy Desarrolladora Front-End.
-El pasado 2024 estuvo lleno de nuevos aprendizajes y desafios,
+El pasado 2023 estuvo lleno de nuevos aprendizajes y desafios,
 adquiri habilidades y conocimientos en este apasionante campo de la tecnologia.
 Siempre busco crecer y mejorar, y he desarrollado habilidades esenciales para la vida.
 Sumergida en el mundo de Scrum, aprovecho su metodología ágil para dar lo mejor de mí en cada
